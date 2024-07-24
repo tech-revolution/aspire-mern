@@ -1,0 +1,7 @@
+h1{
+    color: blue;
+    text-align: center;
+    background-image: url('google.png');
+    height: 200px;
+    background-repeat: no-repeat;
+}
